@@ -20,7 +20,7 @@
 ### About me
 - 🔭 Passionate about information technologies and above all about the human organizations that operate them, leader at heart.
 - 🏢 Technical Lead working for 4 SRE teams at [Ubisoft](https://www.ubisoft.com) for online gaming services
-- 🤞 Studied Software engineering, site reliability engineering by  experience and security enthusiast (Certified Ethical Hacker)
+- 🤞 Studied Software engineering, site reliability engineering by  experience and security enthusiast ([Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=Cf9l4Imb8Rwmmk8312qAA84bFpDndb6G23VB6JzSWjg=))
 - 📖 Love open source
 - 📬 Reach me via twitter, happy to connect
 - 🏃 Former cycling coach, practice swimming and hiking, I run sometimes
