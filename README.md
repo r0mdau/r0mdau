@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there 👋</b></h1>
+  <h1 align="center"><b>r0mdau here 👋</b></h1>
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@
 <br/>
 
 ### About me
-- 🔭 Passionate about information technologies and above all about the human organizations that operate them, leader at heart.
-- 🏢 Technical Lead working for 4 SRE teams at [Ubisoft](https://www.ubisoft.com) for online gaming services
-- 🤞 Studied Software engineering, site reliability engineering by  experience and security enthusiast ([Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=Cf9l4Imb8Rwmmk8312qAA84bFpDndb6G23VB6JzSWjg=))
+- 🔭 Passionate about online information technologies, distributed systems and people organizations that build and operate them
+- 🏢 Technical Lead for 5 SRE teams at [Ubisoft](https://www.ubisoft.com) providing online gaming services
+- 🤞 Studied software engineering, site reliability engineering by experience and cyber security enthusiast
 - 📖 Love open source
 - 📬 Reach me via twitter, happy to connect
-- 🏃 Former cycling coach, practice swimming and hiking, I run sometimes
+- 🏃 Sports hobbies cycling, swimming, running and hiking (former cycling coach)
 
 <br/>
 <br/>
