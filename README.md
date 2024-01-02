@@ -18,11 +18,11 @@
 <br/>
 
 ### About me
-- 🔭 Passionate about online information technologies, distributed systems and people organizations that build and operate them
-- 🏢 Technical Lead for 5 SRE teams at [Ubisoft](https://www.ubisoft.com) providing online gaming services
-- 🤞 Studied software engineering, site reliability engineering by experience and cyber security enthusiast
-- 📖 Love open source
-- 📬 Reach me via twitter, happy to connect
+- 🔭 Software engineering leader with a passion for online systems. I have a rich background in b2b, e-commerce, and online services in the gaming industry. 
+- 🏢 Technical Lead of the SRE department at [Ubisoft](https://www.ubisoft.com), in the Online Services organization, providing global online gaming services.
+- 🤞 Studied software engineering, site reliability engineering by experience and cyber security enthusiast.
+- 📖 Love open source.
+- 📬 Reach me via linkedin or twitter, happy to connect
 - 🏃 Sports hobbies cycling, swimming, running and hiking (former cycling coach)
 
 <br/>
