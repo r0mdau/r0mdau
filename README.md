@@ -18,8 +18,8 @@
 <br/>
 
 ### About me
-- 🔭 Software engineering leader with a passion for online systems. I have a rich background in b2b, e-commerce, and online services in the gaming industry. 
-- 🏢 Technical Lead of the SRE department at [Ubisoft](https://www.ubisoft.com), in the Online Services organization, providing global online gaming services.
+- 🔭 Software engineering leader with a passion for online systems. I have a rich background in b2b, e-commerce, and online services in the gaming industry.
+- 🏢 Technical Architect, building the [Ubisoft](https://www.ubisoft.com)'s Online platform.
 - 🤞 Studied software engineering, site reliability engineering by experience and cyber security enthusiast.
 - 📖 Love open source.
 - 📬 Reach me via linkedin or twitter, happy to connect
