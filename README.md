@@ -18,24 +18,15 @@
 <br/>
 
 ### About me
-- 🔭 Software engineering leader with a passion for online systems. I have a rich background in b2b, e-commerce, and online services in the gaming industry.
-- 🏢 Technical Architect, building the [Ubisoft](https://www.ubisoft.com)'s Online platform.
-- 🤞 Studied software engineering, site reliability engineering by experience and cyber security enthusiast.
-- 📖 Love open source.
-- 📬 Reach me via linkedin or twitter, happy to connect
-- 🏃 Sports hobbies cycling, swimming, running and hiking (former cycling coach)
+- 🔭 Software engineer specializing in the architecture and craft of high-throughput distributed systems. I empower engineering organizations to build and scale systems with excellence in reliability, performance, and security without compromising time-to-market.
+- 🕹️ Industry expertise: deep background in [internal platforms](https://tag-app-delivery.cncf.io/whitepapers/platforms/), observability, e-commerce, and online gaming.
+- 🏗️ Technical philosophy: rooted in site reliability engineering (SRE) and security-first development, with a passion for open source.
+- 🏃 Outside of work: runner, hiker, former cycling coach, applying the same discipline to software as I do to endurance sports.
 
 <br/>
 <br/>
 
-Funny stats with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats) :
+Funny stats with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) :
  <p align="center">
-    <img
-        width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=r0mdau&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
-    />
-    <img
-        width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=r0mdau&theme=tokyonight"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=r0mdau&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
 </p>
